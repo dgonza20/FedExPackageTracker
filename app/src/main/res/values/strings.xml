@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Hw4</string>
+
+    <!--Buttons-->
+    <string name="action_settings">Settings</string>
+    <string name="Track1_Button">Track1</string>
+    <string name="Track2_Button">Track2</string>
+    <string name="Add_Package_Button">Add</string>
+    <string name="View_Database_Button">View DB</string>
+
+    <!--TextView-->
+    <string name="Source_Text">Source</string>
+    <string name="Destination_Text">Destination</string>
+    <string name="Locations_Text">Locations</string>
+
+    <!--editView-->
+    <string name="Track_Edit">Track ID</string>
+
+
+    <string-array name="cities">
+        <item>0. Northborough, MA</item>
+        <item>1. Edison, NJ</item>
+        <item>2. Pittsburgh, PA</item>
+        <item>3. Allentown, PA</item>
+        <item>4. Martinsburg, WV</item>
+
+        <item>5. Charlotte, NC</item>
+        <item>6. Atlanta, GA</item>
+        <item>7. Orlando, FL</item>
+        <item>8. Memphis, TN</item>
+        <item>9. Grove City, OH</item>
+
+        <item>10. Indianapolis, IN</item>
+        <item>11. Detroit, MI</item>
+        <item>12. New Berlin, WI</item>
+        <item>13. Minneapolis, MN</item>
+        <item>14. St. Louis, MO</item>
+
+        <item>15. Kansas, KS</item>
+        <item>16. Dallas, TX</item>
+        <item>17. Houston, TX</item>
+        <item>18. Denver, CO</item>
+        <item>19. Salt Lake City, UT</item>
+
+        <item>20. Phoenix, AZ</item>
+        <item>21. Los Angeles, CA</item>
+        <item>22. Chino, CA</item>
+        <item>23. Sacramento, CA</item>
+        <item>24. Seattle, WA</item>
+    </string-array>
+</resources>
